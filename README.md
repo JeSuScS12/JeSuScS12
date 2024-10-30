@@ -1,17 +1,17 @@
-<h1 align="center"><b>Hi , I'm Jesús Chacón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola soy Jesús Chacón.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a second-year Systems Analyst student and I am also taking web application development courses.
+Soy estudiante de segundo año de Analista de Sistemas y también estoy tomando cursos de desarrollo de aplicaciones web.
 
-- 🔭 I’m currently studying:
-	- Desktop application development
-	- Web Application Development 
-- :bulb: I am interested in everything related to the development of desktop applications and the implementation of microservices in them.
+- 🔭 Actualmente estoy estudiando:
+	- Desarrollo de aplicaciones de escritorio.
+	- Desarrollo de aplicaciones web 
+- :bulb: Me interesa todo lo relacionado con el desarrollo de aplicaciones de escritorio y la implementación de microservicios en las mismas.
 
 
 
-## My Skills Include
+## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -34,7 +34,7 @@ I am a second-year Systems Analyst student and I am also taking web application 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
@@ -43,7 +43,7 @@ I am a second-year Systems Analyst student and I am also taking web application 
 
 <hr>
 <p align="center">
-   <i>Contact means.</i>
+   <i>Medios de contacto.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/jesús-chacon-undefined-01a576230/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
