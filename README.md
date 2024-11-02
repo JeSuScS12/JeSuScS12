@@ -47,7 +47,7 @@ Soy estudiante de segundo año de Analista de Sistemas y también estoy tomando 
 <p align="center">
    <i>Medios de contacto.</i>
    <br>
-<br>	
+<br>
 <a href="https://www.linkedin.com/in/jesús-chacon-undefined-01a576230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
 <br>
